@@ -1,0 +1,7 @@
+{
+  "name": "ionicCrudNode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
